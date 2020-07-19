@@ -18,7 +18,7 @@ NIM game 1 has the following identifying rules:
 - The player who removes the last stone loses the game
 ## NIM game 2
 NIM game 2 has the following identifying rules:
-- The game starts with one or more heaps of stone(s), i.e. where stones are positioned and which of them you remove is **important**
+- The game starts with one heaps of stone(s), however may becomes numerous heaps of stone(s) since position matters, i.e. where stones are positioned and which of them you remove is **important**
 - The initial stone count is determined prior to the game’s start
 - On each turn, players must remove either 1 stone or 2 adjacent stones, unless the heap has less than 2 stones, in which case players can only remove 1 stone. Note that players can only remove stones from one heap before the next player’s turn
 - The player who removes the last stone wins the game
