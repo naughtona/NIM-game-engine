@@ -1,13 +1,13 @@
 # NIM game engine in Java
-A java program that allows game play of two variants of NIM
+NIM is a mathematical game of strategy that has been around for hundreds of years. 
 
-NIM is a mathematical game of strategy that has been around for hundreds of years. This program facilitates game play of two variants of the NIM game:
+This program facilitates game play of two variants of the NIM game:
 - NIM game 1
 - NIM game 2
 
 The program also maintains an up-to-date player registry, including a record of selected statistics of the games they have played.
 
-Note that player data kept in the player registry is continually saved down to data file`player_data.dat` upon exiting the program, and fully restored on subsequent executions, i.e. using the `exit` command to exit, and then running `java Nimsys` to re-execute.  The data that is stored includes usernames, given and family names, and the number of games played and won.
+Player data kept in the player registry is continually saved down to data file `player_data.dat` upon exiting the program, and fully restored on subsequent executions, i.e. using the `exit` command to exit, and then running `java Nimsys` to re-execute.  The data that is stored includes usernames, given and family names, and the number of games played and won.
 
 ## NIM game 1
 
